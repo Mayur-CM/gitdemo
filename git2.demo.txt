@@ -1,0 +1,4 @@
+this is get demo2
+ I am  Learning git Commands.........................2
+ $ git init
+ $ git status
